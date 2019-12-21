@@ -1,0 +1,12 @@
+com\admin\util\LossMoneyTemplate.class
+com\admin\service\PromoteEdieService.class
+com\admin\service\DrlExecute.class
+com\admin\model\RuleResult.class
+com\admin\model\PromoteExecute.class
+com\admin\dao\PromoteExecuteDao.class
+com\admin\util\StringJointUtil.class
+com\admin\controller\ShopController.class
+com\admin\service\PromoteNeaten.class
+com\admin\Application.class
+com\admin\service\NewKieBase.class
+com\admin\util\UUIDUtil.class
