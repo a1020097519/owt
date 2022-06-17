@@ -13,7 +13,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <!-- drools 规则引擎 版本 -->
-        <drools.version>7.0.0.Final</drools.version>
+        <drools.version>7.60.0.Final</drools.version>
     </properties>
 
     <!-- Maven POM文件继承 spring-boot-starter-parent -->
